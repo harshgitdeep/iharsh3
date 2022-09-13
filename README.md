@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">A 2nd year computer science and engineering student.</h3>
-<img align="center" alt="Coding" width="400" src="https://www.pngmart.com/files/4/Coder-PNG-Clipart.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharsh3&label=Profile%20views&color=0e75b6&style=flat" alt="iharsh3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iharsh3" alt="iharsh3" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharsh3&label=Profile%20views&color=0e75b6&style=flat" alt="iharsh3" /> </p>
 
 - 📫 How to reach me **harshzone3@gmail.com**
 
